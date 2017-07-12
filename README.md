@@ -21,7 +21,7 @@
 
 ## Installment
 
-```bash
+``` bash
 $ npm i java-util --save
 ```
 
